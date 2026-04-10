@@ -10,12 +10,12 @@
 struct TpTarefas
 {
     char nome[50];
-    int cod,prio,tempo,tempochegada;
+    int cod,prio,tempo,tempochegada,tipo;
 };
 
 struct TpProcessador{
     TpTarefas atual;
-    int ocupado,tempo_resta,qtd_processos,tempototal;
+    int ocupado,tempo_resta,qtd_processos,tempo_total;
 };
 
 struct TpFila

@@ -1,1000 +1,1000 @@
-1001;Gravacao Externa;2;
-1002;Leitura;3;
-1003;Impressao;4;
-1004;Gravacao Interna;1;
-1005;Gravacao Externa;2;
-1006;Leitura;3;
-1007;Impressao;4;
-1008;Gravacao Interna;1;
-1009;Gravacao Externa;2;
-1010;Leitura;3;
-1011;Impressao;4;
-1012;Gravacao Interna;1;
-1013;Gravacao Externa;2;
-1014;Leitura;3;
-1015;Impressao;4;
-1016;Gravacao Interna;1;
-1017;Gravacao Externa;2;
-1018;Leitura;3;
-1019;Impressao;4;
-1020;Gravacao Interna;1;
-1021;Gravacao Externa;2;
-1022;Leitura;3;
-1023;Impressao;4;
-1024;Gravacao Interna;1;
-1025;Gravacao Externa;2;
-1026;Leitura;3;
-1027;Impressao;4;
-1028;Gravacao Interna;1;
-1029;Gravacao Externa;2;
-1030;Leitura;3;
-1031;Impressao;4;
-1032;Gravacao Interna;1;
-1033;Gravacao Externa;2;
-1034;Leitura;3;
-1035;Impressao;4;
-1036;Gravacao Interna;1;
-1037;Gravacao Externa;2;
-1038;Leitura;3;
-1039;Impressao;4;
-1040;Gravacao Interna;1;
-1041;Gravacao Externa;2;
-1042;Leitura;3;
-1043;Impressao;4;
-1044;Gravacao Interna;1;
-1045;Gravacao Externa;2;
-1046;Leitura;3;
-1047;Impressao;4;
-1048;Gravacao Interna;1;
-1049;Gravacao Externa;2;
-1050;Leitura;3;
-1051;Impressao;4;
-1052;Gravacao Interna;1;
-1053;Gravacao Externa;2;
-1054;Leitura;3;
-1055;Impressao;4;
-1056;Gravacao Interna;1;
-1057;Gravacao Externa;2;
-1058;Leitura;3;
-1059;Impressao;4;
-1060;Gravacao Interna;1;
-1061;Gravacao Externa;2;
-1062;Leitura;3;
-1063;Impressao;4;
-1064;Gravacao Interna;1;
-1065;Gravacao Externa;2;
-1066;Leitura;3;
-1067;Impressao;4;
-1068;Gravacao Interna;1;
-1069;Gravacao Externa;2;
-1070;Leitura;3;
-1071;Impressao;4;
-1072;Gravacao Interna;1;
-1073;Gravacao Externa;2;
-1074;Leitura;3;
-1075;Impressao;4;
-1076;Gravacao Interna;1;
-1077;Gravacao Externa;2;
-1078;Leitura;3;
-1079;Impressao;4;
-1080;Gravacao Interna;1;
-1081;Gravacao Externa;2;
-1082;Leitura;3;
-1083;Impressao;4;
-1084;Gravacao Interna;1;
-1085;Gravacao Externa;2;
-1086;Leitura;3;
-1087;Impressao;4;
-1088;Gravacao Interna;1;
-1089;Gravacao Externa;2;
-1090;Leitura;3;
-1091;Impressao;4;
-1092;Gravacao Interna;1;
-1093;Gravacao Externa;2;
-1094;Leitura;3;
-1095;Impressao;4;
-1096;Gravacao Interna;1;
-1097;Gravacao Externa;2;
-1098;Leitura;3;
-1099;Impressao;4;
-1100;Gravacao Interna;1;
-1101;Gravacao Externa;2;
-1102;Leitura;3;
-1103;Impressao;4;
-1104;Gravacao Interna;1;
-1105;Gravacao Externa;2;
-1106;Leitura;3;
-1107;Impressao;4;
-1108;Gravacao Interna;1;
-1109;Gravacao Externa;2;
-1110;Leitura;3;
-1111;Impressao;4;
-1112;Gravacao Interna;1;
-1113;Gravacao Externa;2;
-1114;Leitura;3;
-1115;Impressao;4;
-1116;Gravacao Interna;1;
-1117;Gravacao Externa;2;
-1118;Leitura;3;
-1119;Impressao;4;
-1120;Gravacao Interna;1;
-1121;Gravacao Externa;2;
-1122;Leitura;3;
-1123;Impressao;4;
-1124;Gravacao Interna;1;
-1125;Gravacao Externa;2;
-1126;Leitura;3;
-1127;Impressao;4;
-1128;Gravacao Interna;1;
-1129;Gravacao Externa;2;
-1130;Leitura;3;
-1131;Impressao;4;
-1132;Gravacao Interna;1;
-1133;Gravacao Externa;2;
-1134;Leitura;3;
-1135;Impressao;4;
-1136;Gravacao Interna;1;
-1137;Gravacao Externa;2;
-1138;Leitura;3;
-1139;Impressao;4;
-1140;Gravacao Interna;1;
-1141;Gravacao Externa;2;
-1142;Leitura;3;
-1143;Impressao;4;
-1144;Gravacao Interna;1;
-1145;Gravacao Externa;2;
-1146;Leitura;3;
-1147;Impressao;4;
-1148;Gravacao Interna;1;
-1149;Gravacao Externa;2;
-1150;Leitura;3;
-1151;Impressao;4;
-1152;Gravacao Interna;1;
-1153;Gravacao Externa;2;
-1154;Leitura;3;
-1155;Impressao;4;
-1156;Gravacao Interna;1;
-1157;Gravacao Externa;2;
-1158;Leitura;3;
-1159;Impressao;4;
-1160;Gravacao Interna;1;
-1161;Gravacao Externa;2;
-1162;Leitura;3;
-1163;Impressao;4;
-1164;Gravacao Interna;1;
-1165;Gravacao Externa;2;
-1166;Leitura;3;
-1167;Impressao;4;
-1168;Gravacao Interna;1;
-1169;Gravacao Externa;2;
-1170;Leitura;3;
-1171;Impressao;4;
-1172;Gravacao Interna;1;
-1173;Gravacao Externa;2;
-1174;Leitura;3;
-1175;Impressao;4;
-1176;Gravacao Interna;1;
-1177;Gravacao Externa;2;
-1178;Leitura;3;
-1179;Impressao;4;
-1180;Gravacao Interna;1;
-1181;Gravacao Externa;2;
-1182;Leitura;3;
-1183;Impressao;4;
-1184;Gravacao Interna;1;
-1185;Gravacao Externa;2;
-1186;Leitura;3;
-1187;Impressao;4;
-1188;Gravacao Interna;1;
-1189;Gravacao Externa;2;
-1190;Leitura;3;
-1191;Impressao;4;
-1192;Gravacao Interna;1;
-1193;Gravacao Externa;2;
-1194;Leitura;3;
-1195;Impressao;4;
-1196;Gravacao Interna;1;
-1197;Gravacao Externa;2;
-1198;Leitura;3;
-1199;Impressao;4;
-1200;Gravacao Interna;1;
-1201;Gravacao Externa;2;
-1202;Leitura;3;
-1203;Impressao;4;
-1204;Gravacao Interna;1;
-1205;Gravacao Externa;2;
-1206;Leitura;3;
-1207;Impressao;4;
-1208;Gravacao Interna;1;
-1209;Gravacao Externa;2;
-1210;Leitura;3;
-1211;Impressao;4;
-1212;Gravacao Interna;1;
-1213;Gravacao Externa;2;
-1214;Leitura;3;
-1215;Impressao;4;
-1216;Gravacao Interna;1;
-1217;Gravacao Externa;2;
-1218;Leitura;3;
-1219;Impressao;4;
-1220;Gravacao Interna;1;
-1221;Gravacao Externa;2;
-1222;Leitura;3;
-1223;Impressao;4;
-1224;Gravacao Interna;1;
-1225;Gravacao Externa;2;
-1226;Leitura;3;
-1227;Impressao;4;
-1228;Gravacao Interna;1;
-1229;Gravacao Externa;2;
-1230;Leitura;3;
-1231;Impressao;4;
-1232;Gravacao Interna;1;
-1233;Gravacao Externa;2;
-1234;Leitura;3;
-1235;Impressao;4;
-1236;Gravacao Interna;1;
-1237;Gravacao Externa;2;
-1238;Leitura;3;
-1239;Impressao;4;
-1240;Gravacao Interna;1;
-1241;Gravacao Externa;2;
-1242;Leitura;3;
-1243;Impressao;4;
-1244;Gravacao Interna;1;
-1245;Gravacao Externa;2;
-1246;Leitura;3;
-1247;Impressao;4;
-1248;Gravacao Interna;1;
-1249;Gravacao Externa;2;
-1250;Leitura;3;
-1251;Impressao;4;
-1252;Gravacao Interna;1;
-1253;Gravacao Externa;2;
-1254;Leitura;3;
-1255;Impressao;4;
-1256;Gravacao Interna;1;
-1257;Gravacao Externa;2;
-1258;Leitura;3;
-1259;Impressao;4;
-1260;Gravacao Interna;1;
-1261;Gravacao Externa;2;
-1262;Leitura;3;
-1263;Impressao;4;
-1264;Gravacao Interna;1;
-1265;Gravacao Externa;2;
-1266;Leitura;3;
-1267;Impressao;4;
-1268;Gravacao Interna;1;
-1269;Gravacao Externa;2;
-1270;Leitura;3;
-1271;Impressao;4;
-1272;Gravacao Interna;1;
-1273;Gravacao Externa;2;
-1274;Leitura;3;
-1275;Impressao;4;
-1276;Gravacao Interna;1;
-1277;Gravacao Externa;2;
-1278;Leitura;3;
-1279;Impressao;4;
-1280;Gravacao Interna;1;
-1281;Gravacao Externa;2;
-1282;Leitura;3;
-1283;Impressao;4;
-1284;Gravacao Interna;1;
-1285;Gravacao Externa;2;
-1286;Leitura;3;
-1287;Impressao;4;
-1288;Gravacao Interna;1;
-1289;Gravacao Externa;2;
-1290;Leitura;3;
-1291;Impressao;4;
-1292;Gravacao Interna;1;
-1293;Gravacao Externa;2;
-1294;Leitura;3;
-1295;Impressao;4;
-1296;Gravacao Interna;1;
-1297;Gravacao Externa;2;
-1298;Leitura;3;
-1299;Impressao;4;
-1300;Gravacao Interna;1;
-1301;Gravacao Externa;2;
-1302;Leitura;3;
-1303;Impressao;4;
-1304;Gravacao Interna;1;
-1305;Gravacao Externa;2;
-1306;Leitura;3;
-1307;Impressao;4;
-1308;Gravacao Interna;1;
-1309;Gravacao Externa;2;
-1310;Leitura;3;
-1311;Impressao;4;
-1312;Gravacao Interna;1;
-1313;Gravacao Externa;2;
-1314;Leitura;3;
-1315;Impressao;4;
-1316;Gravacao Interna;1;
-1317;Gravacao Externa;2;
-1318;Leitura;3;
-1319;Impressao;4;
-1320;Gravacao Interna;1;
-1321;Gravacao Externa;2;
-1322;Leitura;3;
-1323;Impressao;4;
-1324;Gravacao Interna;1;
-1325;Gravacao Externa;2;
-1326;Leitura;3;
-1327;Impressao;4;
-1328;Gravacao Interna;1;
-1329;Gravacao Externa;2;
-1330;Leitura;3;
-1331;Impressao;4;
-1332;Gravacao Interna;1;
-1333;Gravacao Externa;2;
-1334;Leitura;3;
-1335;Impressao;4;
-1336;Gravacao Interna;1;
-1337;Gravacao Externa;2;
-1338;Leitura;3;
-1339;Impressao;4;
-1340;Gravacao Interna;1;
-1341;Gravacao Externa;2;
-1342;Leitura;3;
-1343;Impressao;4;
-1344;Gravacao Interna;1;
-1345;Gravacao Externa;2;
-1346;Leitura;3;
-1347;Impressao;4;
-1348;Gravacao Interna;1;
-1349;Gravacao Externa;2;
-1350;Leitura;3;
-1351;Impressao;4;
-1352;Gravacao Interna;1;
-1353;Gravacao Externa;2;
-1354;Leitura;3;
-1355;Impressao;4;
-1356;Gravacao Interna;1;
-1357;Gravacao Externa;2;
-1358;Leitura;3;
-1359;Impressao;4;
-1360;Gravacao Interna;1;
-1361;Gravacao Externa;2;
-1362;Leitura;3;
-1363;Impressao;4;
-1364;Gravacao Interna;1;
-1365;Gravacao Externa;2;
-1366;Leitura;3;
-1367;Impressao;4;
-1368;Gravacao Interna;1;
-1369;Gravacao Externa;2;
-1370;Leitura;3;
-1371;Impressao;4;
-1372;Gravacao Interna;1;
-1373;Gravacao Externa;2;
-1374;Leitura;3;
-1375;Impressao;4;
-1376;Gravacao Interna;1;
-1377;Gravacao Externa;2;
-1378;Leitura;3;
-1379;Impressao;4;
-1380;Gravacao Interna;1;
-1381;Gravacao Externa;2;
-1382;Leitura;3;
-1383;Impressao;4;
-1384;Gravacao Interna;1;
-1385;Gravacao Externa;2;
-1386;Leitura;3;
-1387;Impressao;4;
-1388;Gravacao Interna;1;
-1389;Gravacao Externa;2;
-1390;Leitura;3;
-1391;Impressao;4;
-1392;Gravacao Interna;1;
-1393;Gravacao Externa;2;
-1394;Leitura;3;
-1395;Impressao;4;
-1396;Gravacao Interna;1;
-1397;Gravacao Externa;2;
-1398;Leitura;3;
-1399;Impressao;4;
-1400;Gravacao Interna;1;
-1401;Gravacao Externa;2;
-1402;Leitura;3;
-1403;Impressao;4;
-1404;Gravacao Interna;1;
-1405;Gravacao Externa;2;
-1406;Leitura;3;
-1407;Impressao;4;
-1408;Gravacao Interna;1;
-1409;Gravacao Externa;2;
-1410;Leitura;3;
-1411;Impressao;4;
-1412;Gravacao Interna;1;
-1413;Gravacao Externa;2;
-1414;Leitura;3;
-1415;Impressao;4;
-1416;Gravacao Interna;1;
-1417;Gravacao Externa;2;
-1418;Leitura;3;
-1419;Impressao;4;
-1420;Gravacao Interna;1;
-1421;Gravacao Externa;2;
-1422;Leitura;3;
-1423;Impressao;4;
-1424;Gravacao Interna;1;
-1425;Gravacao Externa;2;
-1426;Leitura;3;
-1427;Impressao;4;
-1428;Gravacao Interna;1;
-1429;Gravacao Externa;2;
-1430;Leitura;3;
-1431;Impressao;4;
-1432;Gravacao Interna;1;
-1433;Gravacao Externa;2;
-1434;Leitura;3;
-1435;Impressao;4;
-1436;Gravacao Interna;1;
-1437;Gravacao Externa;2;
-1438;Leitura;3;
-1439;Impressao;4;
-1440;Gravacao Interna;1;
-1441;Gravacao Externa;2;
-1442;Leitura;3;
-1443;Impressao;4;
-1444;Gravacao Interna;1;
-1445;Gravacao Externa;2;
-1446;Leitura;3;
-1447;Impressao;4;
-1448;Gravacao Interna;1;
-1449;Gravacao Externa;2;
-1450;Leitura;3;
-1451;Impressao;4;
-1452;Gravacao Interna;1;
-1453;Gravacao Externa;2;
-1454;Leitura;3;
-1455;Impressao;4;
-1456;Gravacao Interna;1;
-1457;Gravacao Externa;2;
-1458;Leitura;3;
-1459;Impressao;4;
-1460;Gravacao Interna;1;
-1461;Gravacao Externa;2;
-1462;Leitura;3;
-1463;Impressao;4;
-1464;Gravacao Interna;1;
-1465;Gravacao Externa;2;
-1466;Leitura;3;
-1467;Impressao;4;
-1468;Gravacao Interna;1;
-1469;Gravacao Externa;2;
-1470;Leitura;3;
-1471;Impressao;4;
-1472;Gravacao Interna;1;
-1473;Gravacao Externa;2;
-1474;Leitura;3;
-1475;Impressao;4;
-1476;Gravacao Interna;1;
-1477;Gravacao Externa;2;
-1478;Leitura;3;
-1479;Impressao;4;
-1480;Gravacao Interna;1;
-1481;Gravacao Externa;2;
-1482;Leitura;3;
-1483;Impressao;4;
-1484;Gravacao Interna;1;
-1485;Gravacao Externa;2;
-1486;Leitura;3;
-1487;Impressao;4;
-1488;Gravacao Interna;1;
-1489;Gravacao Externa;2;
-1490;Leitura;3;
-1491;Impressao;4;
-1492;Gravacao Interna;1;
-1493;Gravacao Externa;2;
-1494;Leitura;3;
-1495;Impressao;4;
-1496;Gravacao Interna;1;
-1497;Gravacao Externa;2;
-1498;Leitura;3;
-1499;Impressao;4;
-1500;Gravacao Interna;1;
-1501;Gravacao Externa;2;
-1502;Leitura;3;
-1503;Impressao;4;
-1504;Gravacao Interna;1;
-1505;Gravacao Externa;2;
-1506;Leitura;3;
-1507;Impressao;4;
-1508;Gravacao Interna;1;
-1509;Gravacao Externa;2;
-1510;Leitura;3;
-1511;Impressao;4;
-1512;Gravacao Interna;1;
-1513;Gravacao Externa;2;
-1514;Leitura;3;
-1515;Impressao;4;
-1516;Gravacao Interna;1;
-1517;Gravacao Externa;2;
-1518;Leitura;3;
-1519;Impressao;4;
-1520;Gravacao Interna;1;
-1521;Gravacao Externa;2;
-1522;Leitura;3;
-1523;Impressao;4;
-1524;Gravacao Interna;1;
-1525;Gravacao Externa;2;
-1526;Leitura;3;
-1527;Impressao;4;
-1528;Gravacao Interna;1;
-1529;Gravacao Externa;2;
-1530;Leitura;3;
-1531;Impressao;4;
-1532;Gravacao Interna;1;
-1533;Gravacao Externa;2;
-1534;Leitura;3;
-1535;Impressao;4;
-1536;Gravacao Interna;1;
-1537;Gravacao Externa;2;
-1538;Leitura;3;
-1539;Impressao;4;
-1540;Gravacao Interna;1;
-1541;Gravacao Externa;2;
-1542;Leitura;3;
-1543;Impressao;4;
-1544;Gravacao Interna;1;
-1545;Gravacao Externa;2;
-1546;Leitura;3;
-1547;Impressao;4;
-1548;Gravacao Interna;1;
-1549;Gravacao Externa;2;
-1550;Leitura;3;
-1551;Impressao;4;
-1552;Gravacao Interna;1;
-1553;Gravacao Externa;2;
-1554;Leitura;3;
-1555;Impressao;4;
-1556;Gravacao Interna;1;
-1557;Gravacao Externa;2;
-1558;Leitura;3;
-1559;Impressao;4;
-1560;Gravacao Interna;1;
-1561;Gravacao Externa;2;
-1562;Leitura;3;
-1563;Impressao;4;
-1564;Gravacao Interna;1;
-1565;Gravacao Externa;2;
-1566;Leitura;3;
-1567;Impressao;4;
-1568;Gravacao Interna;1;
-1569;Gravacao Externa;2;
-1570;Leitura;3;
-1571;Impressao;4;
-1572;Gravacao Interna;1;
-1573;Gravacao Externa;2;
-1574;Leitura;3;
-1575;Impressao;4;
-1576;Gravacao Interna;1;
-1577;Gravacao Externa;2;
-1578;Leitura;3;
-1579;Impressao;4;
-1580;Gravacao Interna;1;
-1581;Gravacao Externa;2;
-1582;Leitura;3;
-1583;Impressao;4;
-1584;Gravacao Interna;1;
-1585;Gravacao Externa;2;
-1586;Leitura;3;
-1587;Impressao;4;
-1588;Gravacao Interna;1;
-1589;Gravacao Externa;2;
-1590;Leitura;3;
-1591;Impressao;4;
-1592;Gravacao Interna;1;
-1593;Gravacao Externa;2;
-1594;Leitura;3;
-1595;Impressao;4;
-1596;Gravacao Interna;1;
-1597;Gravacao Externa;2;
-1598;Leitura;3;
-1599;Impressao;4;
-1600;Gravacao Interna;1;
-1601;Gravacao Externa;2;
-1602;Leitura;3;
-1603;Impressao;4;
-1604;Gravacao Interna;1;
-1605;Gravacao Externa;2;
-1606;Leitura;3;
-1607;Impressao;4;
-1608;Gravacao Interna;1;
-1609;Gravacao Externa;2;
-1610;Leitura;3;
-1611;Impressao;4;
-1612;Gravacao Interna;1;
-1613;Gravacao Externa;2;
-1614;Leitura;3;
-1615;Impressao;4;
-1616;Gravacao Interna;1;
-1617;Gravacao Externa;2;
-1618;Leitura;3;
-1619;Impressao;4;
-1620;Gravacao Interna;1;
-1621;Gravacao Externa;2;
-1622;Leitura;3;
-1623;Impressao;4;
-1624;Gravacao Interna;1;
-1625;Gravacao Externa;2;
-1626;Leitura;3;
-1627;Impressao;4;
-1628;Gravacao Interna;1;
-1629;Gravacao Externa;2;
-1630;Leitura;3;
-1631;Impressao;4;
-1632;Gravacao Interna;1;
-1633;Gravacao Externa;2;
-1634;Leitura;3;
-1635;Impressao;4;
-1636;Gravacao Interna;1;
-1637;Gravacao Externa;2;
-1638;Leitura;3;
-1639;Impressao;4;
-1640;Gravacao Interna;1;
-1641;Gravacao Externa;2;
-1642;Leitura;3;
-1643;Impressao;4;
-1644;Gravacao Interna;1;
-1645;Gravacao Externa;2;
-1646;Leitura;3;
-1647;Impressao;4;
-1648;Gravacao Interna;1;
-1649;Gravacao Externa;2;
-1650;Leitura;3;
-1651;Impressao;4;
-1652;Gravacao Interna;1;
-1653;Gravacao Externa;2;
-1654;Leitura;3;
-1655;Impressao;4;
-1656;Gravacao Interna;1;
-1657;Gravacao Externa;2;
-1658;Leitura;3;
-1659;Impressao;4;
-1660;Gravacao Interna;1;
-1661;Gravacao Externa;2;
-1662;Leitura;3;
-1663;Impressao;4;
-1664;Gravacao Interna;1;
-1665;Gravacao Externa;2;
-1666;Leitura;3;
-1667;Impressao;4;
-1668;Gravacao Interna;1;
-1669;Gravacao Externa;2;
-1670;Leitura;3;
-1671;Impressao;4;
-1672;Gravacao Interna;1;
-1673;Gravacao Externa;2;
-1674;Leitura;3;
-1675;Impressao;4;
-1676;Gravacao Interna;1;
-1677;Gravacao Externa;2;
-1678;Leitura;3;
-1679;Impressao;4;
-1680;Gravacao Interna;1;
-1681;Gravacao Externa;2;
-1682;Leitura;3;
-1683;Impressao;4;
-1684;Gravacao Interna;1;
-1685;Gravacao Externa;2;
-1686;Leitura;3;
-1687;Impressao;4;
-1688;Gravacao Interna;1;
-1689;Gravacao Externa;2;
-1690;Leitura;3;
-1691;Impressao;4;
-1692;Gravacao Interna;1;
-1693;Gravacao Externa;2;
-1694;Leitura;3;
-1695;Impressao;4;
-1696;Gravacao Interna;1;
-1697;Gravacao Externa;2;
-1698;Leitura;3;
-1699;Impressao;4;
-1700;Gravacao Interna;1;
-1701;Gravacao Externa;2;
-1702;Leitura;3;
-1703;Impressao;4;
-1704;Gravacao Interna;1;
-1705;Gravacao Externa;2;
-1706;Leitura;3;
-1707;Impressao;4;
-1708;Gravacao Interna;1;
-1709;Gravacao Externa;2;
-1710;Leitura;3;
-1711;Impressao;4;
-1712;Gravacao Interna;1;
-1713;Gravacao Externa;2;
-1714;Leitura;3;
-1715;Impressao;4;
-1716;Gravacao Interna;1;
-1717;Gravacao Externa;2;
-1718;Leitura;3;
-1719;Impressao;4;
-1720;Gravacao Interna;1;
-1721;Gravacao Externa;2;
-1722;Leitura;3;
-1723;Impressao;4;
-1724;Gravacao Interna;1;
-1725;Gravacao Externa;2;
-1726;Leitura;3;
-1727;Impressao;4;
-1728;Gravacao Interna;1;
-1729;Gravacao Externa;2;
-1730;Leitura;3;
-1731;Impressao;4;
-1732;Gravacao Interna;1;
-1733;Gravacao Externa;2;
-1734;Leitura;3;
-1735;Impressao;4;
-1736;Gravacao Interna;1;
-1737;Gravacao Externa;2;
-1738;Leitura;3;
-1739;Impressao;4;
-1740;Gravacao Interna;1;
-1741;Gravacao Externa;2;
-1742;Leitura;3;
-1743;Impressao;4;
-1744;Gravacao Interna;1;
-1745;Gravacao Externa;2;
-1746;Leitura;3;
-1747;Impressao;4;
-1748;Gravacao Interna;1;
-1749;Gravacao Externa;2;
-1750;Leitura;3;
-1751;Impressao;4;
-1752;Gravacao Interna;1;
-1753;Gravacao Externa;2;
-1754;Leitura;3;
-1755;Impressao;4;
-1756;Gravacao Interna;1;
-1757;Gravacao Externa;2;
-1758;Leitura;3;
-1759;Impressao;4;
-1760;Gravacao Interna;1;
-1761;Gravacao Externa;2;
-1762;Leitura;3;
-1763;Impressao;4;
-1764;Gravacao Interna;1;
-1765;Gravacao Externa;2;
-1766;Leitura;3;
-1767;Impressao;4;
-1768;Gravacao Interna;1;
-1769;Gravacao Externa;2;
-1770;Leitura;3;
-1771;Impressao;4;
-1772;Gravacao Interna;1;
-1773;Gravacao Externa;2;
-1774;Leitura;3;
-1775;Impressao;4;
-1776;Gravacao Interna;1;
-1777;Gravacao Externa;2;
-1778;Leitura;3;
-1779;Impressao;4;
-1780;Gravacao Interna;1;
-1781;Gravacao Externa;2;
-1782;Leitura;3;
-1783;Impressao;4;
-1784;Gravacao Interna;1;
-1785;Gravacao Externa;2;
-1786;Leitura;3;
-1787;Impressao;4;
-1788;Gravacao Interna;1;
-1789;Gravacao Externa;2;
-1790;Leitura;3;
-1791;Impressao;4;
-1792;Gravacao Interna;1;
-1793;Gravacao Externa;2;
-1794;Leitura;3;
-1795;Impressao;4;
-1796;Gravacao Interna;1;
-1797;Gravacao Externa;2;
-1798;Leitura;3;
-1799;Impressao;4;
-1800;Gravacao Interna;1;
-1801;Gravacao Externa;2;
-1802;Leitura;3;
-1803;Impressao;4;
-1804;Gravacao Interna;1;
-1805;Gravacao Externa;2;
-1806;Leitura;3;
-1807;Impressao;4;
-1808;Gravacao Interna;1;
-1809;Gravacao Externa;2;
-1810;Leitura;3;
-1811;Impressao;4;
-1812;Gravacao Interna;1;
-1813;Gravacao Externa;2;
-1814;Leitura;3;
-1815;Impressao;4;
-1816;Gravacao Interna;1;
-1817;Gravacao Externa;2;
-1818;Leitura;3;
-1819;Impressao;4;
-1820;Gravacao Interna;1;
-1821;Gravacao Externa;2;
-1822;Leitura;3;
-1823;Impressao;4;
-1824;Gravacao Interna;1;
-1825;Gravacao Externa;2;
-1826;Leitura;3;
-1827;Impressao;4;
-1828;Gravacao Interna;1;
-1829;Gravacao Externa;2;
-1830;Leitura;3;
-1831;Impressao;4;
-1832;Gravacao Interna;1;
-1833;Gravacao Externa;2;
-1834;Leitura;3;
-1835;Impressao;4;
-1836;Gravacao Interna;1;
-1837;Gravacao Externa;2;
-1838;Leitura;3;
-1839;Impressao;4;
-1840;Gravacao Interna;1;
-1841;Gravacao Externa;2;
-1842;Leitura;3;
-1843;Impressao;4;
-1844;Gravacao Interna;1;
-1845;Gravacao Externa;2;
-1846;Leitura;3;
-1847;Impressao;4;
-1848;Gravacao Interna;1;
-1849;Gravacao Externa;2;
-1850;Leitura;3;
-1851;Impressao;4;
-1852;Gravacao Interna;1;
-1853;Gravacao Externa;2;
-1854;Leitura;3;
-1855;Impressao;4;
-1856;Gravacao Interna;1;
-1857;Gravacao Externa;2;
-1858;Leitura;3;
-1859;Impressao;4;
-1860;Gravacao Interna;1;
-1861;Gravacao Externa;2;
-1862;Leitura;3;
-1863;Impressao;4;
-1864;Gravacao Interna;1;
-1865;Gravacao Externa;2;
-1866;Leitura;3;
-1867;Impressao;4;
-1868;Gravacao Interna;1;
-1869;Gravacao Externa;2;
-1870;Leitura;3;
-1871;Impressao;4;
-1872;Gravacao Interna;1;
-1873;Gravacao Externa;2;
-1874;Leitura;3;
-1875;Impressao;4;
-1876;Gravacao Interna;1;
-1877;Gravacao Externa;2;
-1878;Leitura;3;
-1879;Impressao;4;
-1880;Gravacao Interna;1;
-1881;Gravacao Externa;2;
-1882;Leitura;3;
-1883;Impressao;4;
-1884;Gravacao Interna;1;
-1885;Gravacao Externa;2;
-1886;Leitura;3;
-1887;Impressao;4;
-1888;Gravacao Interna;1;
-1889;Gravacao Externa;2;
-1890;Leitura;3;
-1891;Impressao;4;
-1892;Gravacao Interna;1;
-1893;Gravacao Externa;2;
-1894;Leitura;3;
-1895;Impressao;4;
-1896;Gravacao Interna;1;
-1897;Gravacao Externa;2;
-1898;Leitura;3;
-1899;Impressao;4;
-1900;Gravacao Interna;1;
-1901;Gravacao Externa;2;
-1902;Leitura;3;
-1903;Impressao;4;
-1904;Gravacao Interna;1;
-1905;Gravacao Externa;2;
-1906;Leitura;3;
-1907;Impressao;4;
-1908;Gravacao Interna;1;
-1909;Gravacao Externa;2;
-1910;Leitura;3;
-1911;Impressao;4;
-1912;Gravacao Interna;1;
-1913;Gravacao Externa;2;
-1914;Leitura;3;
-1915;Impressao;4;
-1916;Gravacao Interna;1;
-1917;Gravacao Externa;2;
-1918;Leitura;3;
-1919;Impressao;4;
-1920;Gravacao Interna;1;
-1921;Gravacao Externa;2;
-1922;Leitura;3;
-1923;Impressao;4;
-1924;Gravacao Interna;1;
-1925;Gravacao Externa;2;
-1926;Leitura;3;
-1927;Impressao;4;
-1928;Gravacao Interna;1;
-1929;Gravacao Externa;2;
-1930;Leitura;3;
-1931;Impressao;4;
-1932;Gravacao Interna;1;
-1933;Gravacao Externa;2;
-1934;Leitura;3;
-1935;Impressao;4;
-1936;Gravacao Interna;1;
-1937;Gravacao Externa;2;
-1938;Leitura;3;
-1939;Impressao;4;
-1940;Gravacao Interna;1;
-1941;Gravacao Externa;2;
-1942;Leitura;3;
-1943;Impressao;4;
-1944;Gravacao Interna;1;
-1945;Gravacao Externa;2;
-1946;Leitura;3;
-1947;Impressao;4;
-1948;Gravacao Interna;1;
-1949;Gravacao Externa;2;
-1950;Leitura;3;
-1951;Impressao;4;
-1952;Gravacao Interna;1;
-1953;Gravacao Externa;2;
-1954;Leitura;3;
-1955;Impressao;4;
-1956;Gravacao Interna;1;
-1957;Gravacao Externa;2;
-1958;Leitura;3;
-1959;Impressao;4;
-1960;Gravacao Interna;1;
-1961;Gravacao Externa;2;
-1962;Leitura;3;
-1963;Impressao;4;
-1964;Gravacao Interna;1;
-1965;Gravacao Externa;2;
-1966;Leitura;3;
-1967;Impressao;4;
-1968;Gravacao Interna;1;
-1969;Gravacao Externa;2;
-1970;Leitura;3;
-1971;Impressao;4;
-1972;Gravacao Interna;1;
-1973;Gravacao Externa;2;
-1974;Leitura;3;
-1975;Impressao;4;
-1976;Gravacao Interna;1;
-1977;Gravacao Externa;2;
-1978;Leitura;3;
-1979;Impressao;4;
-1980;Gravacao Interna;1;
-1981;Gravacao Externa;2;
-1982;Leitura;3;
-1983;Impressao;4;
-1984;Gravacao Interna;1;
-1985;Gravacao Externa;2;
-1986;Leitura;3;
-1987;Impressao;4;
-1988;Gravacao Interna;1;
-1989;Gravacao Externa;2;
-1990;Leitura;3;
-1991;Impressao;4;
-1992;Gravacao Interna;1;
-1993;Gravacao Externa;2;
-1994;Leitura;3;
-1995;Impressao;4;
-1996;Gravacao Interna;1;
-1997;Gravacao Externa;2;
-1998;Leitura;3;
-1999;Impressao;4;
-2000;Gravacao Interna;1;
+1000;Gravacao Externa;2
+1001;Leitura;3
+1002;Impressao;4
+1003;Gravacao Interna;1
+1004;Gravacao Externa;2
+1005;Leitura;3
+1006;Impressao;4
+1007;Gravacao Interna;1
+1008;Gravacao Externa;2
+1009;Leitura;3
+1010;Impressao;4
+1011;Gravacao Interna;1
+1012;Gravacao Externa;2
+1013;Leitura;3
+1014;Impressao;4
+1015;Gravacao Interna;1
+1016;Gravacao Externa;2
+1017;Leitura;3
+1018;Impressao;4
+1019;Gravacao Interna;1
+1020;Gravacao Externa;2
+1021;Leitura;3
+1022;Impressao;4
+1023;Gravacao Interna;1
+1024;Gravacao Externa;2
+1025;Leitura;3
+1026;Impressao;4
+1027;Gravacao Interna;1
+1028;Gravacao Externa;2
+1029;Leitura;3
+1030;Impressao;4
+1031;Gravacao Interna;1
+1032;Gravacao Externa;2
+1033;Leitura;3
+1034;Impressao;4
+1035;Gravacao Interna;1
+1036;Gravacao Externa;2
+1037;Leitura;3
+1038;Impressao;4
+1039;Gravacao Interna;1
+1040;Gravacao Externa;2
+1041;Leitura;3
+1042;Impressao;4
+1043;Gravacao Interna;1
+1044;Gravacao Externa;2
+1045;Leitura;3
+1046;Impressao;4
+1047;Gravacao Interna;1
+1048;Gravacao Externa;2
+1049;Leitura;3
+1050;Impressao;4
+1051;Gravacao Interna;1
+1052;Gravacao Externa;2
+1053;Leitura;3
+1054;Impressao;4
+1055;Gravacao Interna;1
+1056;Gravacao Externa;2
+1057;Leitura;3
+1058;Impressao;4
+1059;Gravacao Interna;1
+1060;Gravacao Externa;2
+1061;Leitura;3
+1062;Impressao;4
+1063;Gravacao Interna;1
+1064;Gravacao Externa;2
+1065;Leitura;3
+1066;Impressao;4
+1067;Gravacao Interna;1
+1068;Gravacao Externa;2
+1069;Leitura;3
+1070;Impressao;4
+1071;Gravacao Interna;1
+1072;Gravacao Externa;2
+1073;Leitura;3
+1074;Impressao;4
+1075;Gravacao Interna;1
+1076;Gravacao Externa;2
+1077;Leitura;3
+1078;Impressao;4
+1079;Gravacao Interna;1
+1080;Gravacao Externa;2
+1081;Leitura;3
+1082;Impressao;4
+1083;Gravacao Interna;1
+1084;Gravacao Externa;2
+1085;Leitura;3
+1086;Impressao;4
+1087;Gravacao Interna;1
+1088;Gravacao Externa;2
+1089;Leitura;3
+1090;Impressao;4
+1091;Gravacao Interna;1
+1092;Gravacao Externa;2
+1093;Leitura;3
+1094;Impressao;4
+1095;Gravacao Interna;1
+1096;Gravacao Externa;2
+1097;Leitura;3
+1098;Impressao;4
+1099;Gravacao Interna;1
+1100;Gravacao Externa;2
+1101;Leitura;3
+1102;Impressao;4
+1103;Gravacao Interna;1
+1104;Gravacao Externa;2
+1105;Leitura;3
+1106;Impressao;4
+1107;Gravacao Interna;1
+1108;Gravacao Externa;2
+1109;Leitura;3
+1110;Impressao;4
+1111;Gravacao Interna;1
+1112;Gravacao Externa;2
+1113;Leitura;3
+1114;Impressao;4
+1115;Gravacao Interna;1
+1116;Gravacao Externa;2
+1117;Leitura;3
+1118;Impressao;4
+1119;Gravacao Interna;1
+1120;Gravacao Externa;2
+1121;Leitura;3
+1122;Impressao;4
+1123;Gravacao Interna;1
+1124;Gravacao Externa;2
+1125;Leitura;3
+1126;Impressao;4
+1127;Gravacao Interna;1
+1128;Gravacao Externa;2
+1129;Leitura;3
+1130;Impressao;4
+1131;Gravacao Interna;1
+1132;Gravacao Externa;2
+1133;Leitura;3
+1134;Impressao;4
+1135;Gravacao Interna;1
+1136;Gravacao Externa;2
+1137;Leitura;3
+1138;Impressao;4
+1139;Gravacao Interna;1
+1140;Gravacao Externa;2
+1141;Leitura;3
+1142;Impressao;4
+1143;Gravacao Interna;1
+1144;Gravacao Externa;2
+1145;Leitura;3
+1146;Impressao;4
+1147;Gravacao Interna;1
+1148;Gravacao Externa;2
+1149;Leitura;3
+1150;Impressao;4
+1151;Gravacao Interna;1
+1152;Gravacao Externa;2
+1153;Leitura;3
+1154;Impressao;4
+1155;Gravacao Interna;1
+1156;Gravacao Externa;2
+1157;Leitura;3
+1158;Impressao;4
+1159;Gravacao Interna;1
+1160;Gravacao Externa;2
+1161;Leitura;3
+1162;Impressao;4
+1163;Gravacao Interna;1
+1164;Gravacao Externa;2
+1165;Leitura;3
+1166;Impressao;4
+1167;Gravacao Interna;1
+1168;Gravacao Externa;2
+1169;Leitura;3
+1170;Impressao;4
+1171;Gravacao Interna;1
+1172;Gravacao Externa;2
+1173;Leitura;3
+1174;Impressao;4
+1175;Gravacao Interna;1
+1176;Gravacao Externa;2
+1177;Leitura;3
+1178;Impressao;4
+1179;Gravacao Interna;1
+1180;Gravacao Externa;2
+1181;Leitura;3
+1182;Impressao;4
+1183;Gravacao Interna;1
+1184;Gravacao Externa;2
+1185;Leitura;3
+1186;Impressao;4
+1187;Gravacao Interna;1
+1188;Gravacao Externa;2
+1189;Leitura;3
+1190;Impressao;4
+1191;Gravacao Interna;1
+1192;Gravacao Externa;2
+1193;Leitura;3
+1194;Impressao;4
+1195;Gravacao Interna;1
+1196;Gravacao Externa;2
+1197;Leitura;3
+1198;Impressao;4
+1199;Gravacao Interna;1
+1200;Gravacao Externa;2
+1201;Leitura;3
+1202;Impressao;4
+1203;Gravacao Interna;1
+1204;Gravacao Externa;2
+1205;Leitura;3
+1206;Impressao;4
+1207;Gravacao Interna;1
+1208;Gravacao Externa;2
+1209;Leitura;3
+1210;Impressao;4
+1211;Gravacao Interna;1
+1212;Gravacao Externa;2
+1213;Leitura;3
+1214;Impressao;4
+1215;Gravacao Interna;1
+1216;Gravacao Externa;2
+1217;Leitura;3
+1218;Impressao;4
+1219;Gravacao Interna;1
+1220;Gravacao Externa;2
+1221;Leitura;3
+1222;Impressao;4
+1223;Gravacao Interna;1
+1224;Gravacao Externa;2
+1225;Leitura;3
+1226;Impressao;4
+1227;Gravacao Interna;1
+1228;Gravacao Externa;2
+1229;Leitura;3
+1230;Impressao;4
+1231;Gravacao Interna;1
+1232;Gravacao Externa;2
+1233;Leitura;3
+1234;Impressao;4
+1235;Gravacao Interna;1
+1236;Gravacao Externa;2
+1237;Leitura;3
+1238;Impressao;4
+1239;Gravacao Interna;1
+1240;Gravacao Externa;2
+1241;Leitura;3
+1242;Impressao;4
+1243;Gravacao Interna;1
+1244;Gravacao Externa;2
+1245;Leitura;3
+1246;Impressao;4
+1247;Gravacao Interna;1
+1248;Gravacao Externa;2
+1249;Leitura;3
+1250;Impressao;4
+1251;Gravacao Interna;1
+1252;Gravacao Externa;2
+1253;Leitura;3
+1254;Impressao;4
+1255;Gravacao Interna;1
+1256;Gravacao Externa;2
+1257;Leitura;3
+1258;Impressao;4
+1259;Gravacao Interna;1
+1260;Gravacao Externa;2
+1261;Leitura;3
+1262;Impressao;4
+1263;Gravacao Interna;1
+1264;Gravacao Externa;2
+1265;Leitura;3
+1266;Impressao;4
+1267;Gravacao Interna;1
+1268;Gravacao Externa;2
+1269;Leitura;3
+1270;Impressao;4
+1271;Gravacao Interna;1
+1272;Gravacao Externa;2
+1273;Leitura;3
+1274;Impressao;4
+1275;Gravacao Interna;1
+1276;Gravacao Externa;2
+1277;Leitura;3
+1278;Impressao;4
+1279;Gravacao Interna;1
+1280;Gravacao Externa;2
+1281;Leitura;3
+1282;Impressao;4
+1283;Gravacao Interna;1
+1284;Gravacao Externa;2
+1285;Leitura;3
+1286;Impressao;4
+1287;Gravacao Interna;1
+1288;Gravacao Externa;2
+1289;Leitura;3
+1290;Impressao;4
+1291;Gravacao Interna;1
+1292;Gravacao Externa;2
+1293;Leitura;3
+1294;Impressao;4
+1295;Gravacao Interna;1
+1296;Gravacao Externa;2
+1297;Leitura;3
+1298;Impressao;4
+1299;Gravacao Interna;1
+1300;Gravacao Externa;2
+1301;Leitura;3
+1302;Impressao;4
+1303;Gravacao Interna;1
+1304;Gravacao Externa;2
+1305;Leitura;3
+1306;Impressao;4
+1307;Gravacao Interna;1
+1308;Gravacao Externa;2
+1309;Leitura;3
+1310;Impressao;4
+1311;Gravacao Interna;1
+1312;Gravacao Externa;2
+1313;Leitura;3
+1314;Impressao;4
+1315;Gravacao Interna;1
+1316;Gravacao Externa;2
+1317;Leitura;3
+1318;Impressao;4
+1319;Gravacao Interna;1
+1320;Gravacao Externa;2
+1321;Leitura;3
+1322;Impressao;4
+1323;Gravacao Interna;1
+1324;Gravacao Externa;2
+1325;Leitura;3
+1326;Impressao;4
+1327;Gravacao Interna;1
+1328;Gravacao Externa;2
+1329;Leitura;3
+1330;Impressao;4
+1331;Gravacao Interna;1
+1332;Gravacao Externa;2
+1333;Leitura;3
+1334;Impressao;4
+1335;Gravacao Interna;1
+1336;Gravacao Externa;2
+1337;Leitura;3
+1338;Impressao;4
+1339;Gravacao Interna;1
+1340;Gravacao Externa;2
+1341;Leitura;3
+1342;Impressao;4
+1343;Gravacao Interna;1
+1344;Gravacao Externa;2
+1345;Leitura;3
+1346;Impressao;4
+1347;Gravacao Interna;1
+1348;Gravacao Externa;2
+1349;Leitura;3
+1350;Impressao;4
+1351;Gravacao Interna;1
+1352;Gravacao Externa;2
+1353;Leitura;3
+1354;Impressao;4
+1355;Gravacao Interna;1
+1356;Gravacao Externa;2
+1357;Leitura;3
+1358;Impressao;4
+1359;Gravacao Interna;1
+1360;Gravacao Externa;2
+1361;Leitura;3
+1362;Impressao;4
+1363;Gravacao Interna;1
+1364;Gravacao Externa;2
+1365;Leitura;3
+1366;Impressao;4
+1367;Gravacao Interna;1
+1368;Gravacao Externa;2
+1369;Leitura;3
+1370;Impressao;4
+1371;Gravacao Interna;1
+1372;Gravacao Externa;2
+1373;Leitura;3
+1374;Impressao;4
+1375;Gravacao Interna;1
+1376;Gravacao Externa;2
+1377;Leitura;3
+1378;Impressao;4
+1379;Gravacao Interna;1
+1380;Gravacao Externa;2
+1381;Leitura;3
+1382;Impressao;4
+1383;Gravacao Interna;1
+1384;Gravacao Externa;2
+1385;Leitura;3
+1386;Impressao;4
+1387;Gravacao Interna;1
+1388;Gravacao Externa;2
+1389;Leitura;3
+1390;Impressao;4
+1391;Gravacao Interna;1
+1392;Gravacao Externa;2
+1393;Leitura;3
+1394;Impressao;4
+1395;Gravacao Interna;1
+1396;Gravacao Externa;2
+1397;Leitura;3
+1398;Impressao;4
+1399;Gravacao Interna;1
+1400;Gravacao Externa;2
+1401;Leitura;3
+1402;Impressao;4
+1403;Gravacao Interna;1
+1404;Gravacao Externa;2
+1405;Leitura;3
+1406;Impressao;4
+1407;Gravacao Interna;1
+1408;Gravacao Externa;2
+1409;Leitura;3
+1410;Impressao;4
+1411;Gravacao Interna;1
+1412;Gravacao Externa;2
+1413;Leitura;3
+1414;Impressao;4
+1415;Gravacao Interna;1
+1416;Gravacao Externa;2
+1417;Leitura;3
+1418;Impressao;4
+1419;Gravacao Interna;1
+1420;Gravacao Externa;2
+1421;Leitura;3
+1422;Impressao;4
+1423;Gravacao Interna;1
+1424;Gravacao Externa;2
+1425;Leitura;3
+1426;Impressao;4
+1427;Gravacao Interna;1
+1428;Gravacao Externa;2
+1429;Leitura;3
+1430;Impressao;4
+1431;Gravacao Interna;1
+1432;Gravacao Externa;2
+1433;Leitura;3
+1434;Impressao;4
+1435;Gravacao Interna;1
+1436;Gravacao Externa;2
+1437;Leitura;3
+1438;Impressao;4
+1439;Gravacao Interna;1
+1440;Gravacao Externa;2
+1441;Leitura;3
+1442;Impressao;4
+1443;Gravacao Interna;1
+1444;Gravacao Externa;2
+1445;Leitura;3
+1446;Impressao;4
+1447;Gravacao Interna;1
+1448;Gravacao Externa;2
+1449;Leitura;3
+1450;Impressao;4
+1451;Gravacao Interna;1
+1452;Gravacao Externa;2
+1453;Leitura;3
+1454;Impressao;4
+1455;Gravacao Interna;1
+1456;Gravacao Externa;2
+1457;Leitura;3
+1458;Impressao;4
+1459;Gravacao Interna;1
+1460;Gravacao Externa;2
+1461;Leitura;3
+1462;Impressao;4
+1463;Gravacao Interna;1
+1464;Gravacao Externa;2
+1465;Leitura;3
+1466;Impressao;4
+1467;Gravacao Interna;1
+1468;Gravacao Externa;2
+1469;Leitura;3
+1470;Impressao;4
+1471;Gravacao Interna;1
+1472;Gravacao Externa;2
+1473;Leitura;3
+1474;Impressao;4
+1475;Gravacao Interna;1
+1476;Gravacao Externa;2
+1477;Leitura;3
+1478;Impressao;4
+1479;Gravacao Interna;1
+1480;Gravacao Externa;2
+1481;Leitura;3
+1482;Impressao;4
+1483;Gravacao Interna;1
+1484;Gravacao Externa;2
+1485;Leitura;3
+1486;Impressao;4
+1487;Gravacao Interna;1
+1488;Gravacao Externa;2
+1489;Leitura;3
+1490;Impressao;4
+1491;Gravacao Interna;1
+1492;Gravacao Externa;2
+1493;Leitura;3
+1494;Impressao;4
+1495;Gravacao Interna;1
+1496;Gravacao Externa;2
+1497;Leitura;3
+1498;Impressao;4
+1499;Gravacao Interna;1
+1500;Gravacao Externa;2
+1501;Leitura;3
+1502;Impressao;4
+1503;Gravacao Interna;1
+1504;Gravacao Externa;2
+1505;Leitura;3
+1506;Impressao;4
+1507;Gravacao Interna;1
+1508;Gravacao Externa;2
+1509;Leitura;3
+1510;Impressao;4
+1511;Gravacao Interna;1
+1512;Gravacao Externa;2
+1513;Leitura;3
+1514;Impressao;4
+1515;Gravacao Interna;1
+1516;Gravacao Externa;2
+1517;Leitura;3
+1518;Impressao;4
+1519;Gravacao Interna;1
+1520;Gravacao Externa;2
+1521;Leitura;3
+1522;Impressao;4
+1523;Gravacao Interna;1
+1524;Gravacao Externa;2
+1525;Leitura;3
+1526;Impressao;4
+1527;Gravacao Interna;1
+1528;Gravacao Externa;2
+1529;Leitura;3
+1530;Impressao;4
+1531;Gravacao Interna;1
+1532;Gravacao Externa;2
+1533;Leitura;3
+1534;Impressao;4
+1535;Gravacao Interna;1
+1536;Gravacao Externa;2
+1537;Leitura;3
+1538;Impressao;4
+1539;Gravacao Interna;1
+1540;Gravacao Externa;2
+1541;Leitura;3
+1542;Impressao;4
+1543;Gravacao Interna;1
+1544;Gravacao Externa;2
+1545;Leitura;3
+1546;Impressao;4
+1547;Gravacao Interna;1
+1548;Gravacao Externa;2
+1549;Leitura;3
+1550;Impressao;4
+1551;Gravacao Interna;1
+1552;Gravacao Externa;2
+1553;Leitura;3
+1554;Impressao;4
+1555;Gravacao Interna;1
+1556;Gravacao Externa;2
+1557;Leitura;3
+1558;Impressao;4
+1559;Gravacao Interna;1
+1560;Gravacao Externa;2
+1561;Leitura;3
+1562;Impressao;4
+1563;Gravacao Interna;1
+1564;Gravacao Externa;2
+1565;Leitura;3
+1566;Impressao;4
+1567;Gravacao Interna;1
+1568;Gravacao Externa;2
+1569;Leitura;3
+1570;Impressao;4
+1571;Gravacao Interna;1
+1572;Gravacao Externa;2
+1573;Leitura;3
+1574;Impressao;4
+1575;Gravacao Interna;1
+1576;Gravacao Externa;2
+1577;Leitura;3
+1578;Impressao;4
+1579;Gravacao Interna;1
+1580;Gravacao Externa;2
+1581;Leitura;3
+1582;Impressao;4
+1583;Gravacao Interna;1
+1584;Gravacao Externa;2
+1585;Leitura;3
+1586;Impressao;4
+1587;Gravacao Interna;1
+1588;Gravacao Externa;2
+1589;Leitura;3
+1590;Impressao;4
+1591;Gravacao Interna;1
+1592;Gravacao Externa;2
+1593;Leitura;3
+1594;Impressao;4
+1595;Gravacao Interna;1
+1596;Gravacao Externa;2
+1597;Leitura;3
+1598;Impressao;4
+1599;Gravacao Interna;1
+1600;Gravacao Externa;2
+1601;Leitura;3
+1602;Impressao;4
+1603;Gravacao Interna;1
+1604;Gravacao Externa;2
+1605;Leitura;3
+1606;Impressao;4
+1607;Gravacao Interna;1
+1608;Gravacao Externa;2
+1609;Leitura;3
+1610;Impressao;4
+1611;Gravacao Interna;1
+1612;Gravacao Externa;2
+1613;Leitura;3
+1614;Impressao;4
+1615;Gravacao Interna;1
+1616;Gravacao Externa;2
+1617;Leitura;3
+1618;Impressao;4
+1619;Gravacao Interna;1
+1620;Gravacao Externa;2
+1621;Leitura;3
+1622;Impressao;4
+1623;Gravacao Interna;1
+1624;Gravacao Externa;2
+1625;Leitura;3
+1626;Impressao;4
+1627;Gravacao Interna;1
+1628;Gravacao Externa;2
+1629;Leitura;3
+1630;Impressao;4
+1631;Gravacao Interna;1
+1632;Gravacao Externa;2
+1633;Leitura;3
+1634;Impressao;4
+1635;Gravacao Interna;1
+1636;Gravacao Externa;2
+1637;Leitura;3
+1638;Impressao;4
+1639;Gravacao Interna;1
+1640;Gravacao Externa;2
+1641;Leitura;3
+1642;Impressao;4
+1643;Gravacao Interna;1
+1644;Gravacao Externa;2
+1645;Leitura;3
+1646;Impressao;4
+1647;Gravacao Interna;1
+1648;Gravacao Externa;2
+1649;Leitura;3
+1650;Impressao;4
+1651;Gravacao Interna;1
+1652;Gravacao Externa;2
+1653;Leitura;3
+1654;Impressao;4
+1655;Gravacao Interna;1
+1656;Gravacao Externa;2
+1657;Leitura;3
+1658;Impressao;4
+1659;Gravacao Interna;1
+1660;Gravacao Externa;2
+1661;Leitura;3
+1662;Impressao;4
+1663;Gravacao Interna;1
+1664;Gravacao Externa;2
+1665;Leitura;3
+1666;Impressao;4
+1667;Gravacao Interna;1
+1668;Gravacao Externa;2
+1669;Leitura;3
+1670;Impressao;4
+1671;Gravacao Interna;1
+1672;Gravacao Externa;2
+1673;Leitura;3
+1674;Impressao;4
+1675;Gravacao Interna;1
+1676;Gravacao Externa;2
+1677;Leitura;3
+1678;Impressao;4
+1679;Gravacao Interna;1
+1680;Gravacao Externa;2
+1681;Leitura;3
+1682;Impressao;4
+1683;Gravacao Interna;1
+1684;Gravacao Externa;2
+1685;Leitura;3
+1686;Impressao;4
+1687;Gravacao Interna;1
+1688;Gravacao Externa;2
+1689;Leitura;3
+1690;Impressao;4
+1691;Gravacao Interna;1
+1692;Gravacao Externa;2
+1693;Leitura;3
+1694;Impressao;4
+1695;Gravacao Interna;1
+1696;Gravacao Externa;2
+1697;Leitura;3
+1698;Impressao;4
+1699;Gravacao Interna;1
+1700;Gravacao Externa;2
+1701;Leitura;3
+1702;Impressao;4
+1703;Gravacao Interna;1
+1704;Gravacao Externa;2
+1705;Leitura;3
+1706;Impressao;4
+1707;Gravacao Interna;1
+1708;Gravacao Externa;2
+1709;Leitura;3
+1710;Impressao;4
+1711;Gravacao Interna;1
+1712;Gravacao Externa;2
+1713;Leitura;3
+1714;Impressao;4
+1715;Gravacao Interna;1
+1716;Gravacao Externa;2
+1717;Leitura;3
+1718;Impressao;4
+1719;Gravacao Interna;1
+1720;Gravacao Externa;2
+1721;Leitura;3
+1722;Impressao;4
+1723;Gravacao Interna;1
+1724;Gravacao Externa;2
+1725;Leitura;3
+1726;Impressao;4
+1727;Gravacao Interna;1
+1728;Gravacao Externa;2
+1729;Leitura;3
+1730;Impressao;4
+1731;Gravacao Interna;1
+1732;Gravacao Externa;2
+1733;Leitura;3
+1734;Impressao;4
+1735;Gravacao Interna;1
+1736;Gravacao Externa;2
+1737;Leitura;3
+1738;Impressao;4
+1739;Gravacao Interna;1
+1740;Gravacao Externa;2
+1741;Leitura;3
+1742;Impressao;4
+1743;Gravacao Interna;1
+1744;Gravacao Externa;2
+1745;Leitura;3
+1746;Impressao;4
+1747;Gravacao Interna;1
+1748;Gravacao Externa;2
+1749;Leitura;3
+1750;Impressao;4
+1751;Gravacao Interna;1
+1752;Gravacao Externa;2
+1753;Leitura;3
+1754;Impressao;4
+1755;Gravacao Interna;1
+1756;Gravacao Externa;2
+1757;Leitura;3
+1758;Impressao;4
+1759;Gravacao Interna;1
+1760;Gravacao Externa;2
+1761;Leitura;3
+1762;Impressao;4
+1763;Gravacao Interna;1
+1764;Gravacao Externa;2
+1765;Leitura;3
+1766;Impressao;4
+1767;Gravacao Interna;1
+1768;Gravacao Externa;2
+1769;Leitura;3
+1770;Impressao;4
+1771;Gravacao Interna;1
+1772;Gravacao Externa;2
+1773;Leitura;3
+1774;Impressao;4
+1775;Gravacao Interna;1
+1776;Gravacao Externa;2
+1777;Leitura;3
+1778;Impressao;4
+1779;Gravacao Interna;1
+1780;Gravacao Externa;2
+1781;Leitura;3
+1782;Impressao;4
+1783;Gravacao Interna;1
+1784;Gravacao Externa;2
+1785;Leitura;3
+1786;Impressao;4
+1787;Gravacao Interna;1
+1788;Gravacao Externa;2
+1789;Leitura;3
+1790;Impressao;4
+1791;Gravacao Interna;1
+1792;Gravacao Externa;2
+1793;Leitura;3
+1794;Impressao;4
+1795;Gravacao Interna;1
+1796;Gravacao Externa;2
+1797;Leitura;3
+1798;Impressao;4
+1799;Gravacao Interna;1
+1800;Gravacao Externa;2
+1801;Leitura;3
+1802;Impressao;4
+1803;Gravacao Interna;1
+1804;Gravacao Externa;2
+1805;Leitura;3
+1806;Impressao;4
+1807;Gravacao Interna;1
+1808;Gravacao Externa;2
+1809;Leitura;3
+1810;Impressao;4
+1811;Gravacao Interna;1
+1812;Gravacao Externa;2
+1813;Leitura;3
+1814;Impressao;4
+1815;Gravacao Interna;1
+1816;Gravacao Externa;2
+1817;Leitura;3
+1818;Impressao;4
+1819;Gravacao Interna;1
+1820;Gravacao Externa;2
+1821;Leitura;3
+1822;Impressao;4
+1823;Gravacao Interna;1
+1824;Gravacao Externa;2
+1825;Leitura;3
+1826;Impressao;4
+1827;Gravacao Interna;1
+1828;Gravacao Externa;2
+1829;Leitura;3
+1830;Impressao;4
+1831;Gravacao Interna;1
+1832;Gravacao Externa;2
+1833;Leitura;3
+1834;Impressao;4
+1835;Gravacao Interna;1
+1836;Gravacao Externa;2
+1837;Leitura;3
+1838;Impressao;4
+1839;Gravacao Interna;1
+1840;Gravacao Externa;2
+1841;Leitura;3
+1842;Impressao;4
+1843;Gravacao Interna;1
+1844;Gravacao Externa;2
+1845;Leitura;3
+1846;Impressao;4
+1847;Gravacao Interna;1
+1848;Gravacao Externa;2
+1849;Leitura;3
+1850;Impressao;4
+1851;Gravacao Interna;1
+1852;Gravacao Externa;2
+1853;Leitura;3
+1854;Impressao;4
+1855;Gravacao Interna;1
+1856;Gravacao Externa;2
+1857;Leitura;3
+1858;Impressao;4
+1859;Gravacao Interna;1
+1860;Gravacao Externa;2
+1861;Leitura;3
+1862;Impressao;4
+1863;Gravacao Interna;1
+1864;Gravacao Externa;2
+1865;Leitura;3
+1866;Impressao;4
+1867;Gravacao Interna;1
+1868;Gravacao Externa;2
+1869;Leitura;3
+1870;Impressao;4
+1871;Gravacao Interna;1
+1872;Gravacao Externa;2
+1873;Leitura;3
+1874;Impressao;4
+1875;Gravacao Interna;1
+1876;Gravacao Externa;2
+1877;Leitura;3
+1878;Impressao;4
+1879;Gravacao Interna;1
+1880;Gravacao Externa;2
+1881;Leitura;3
+1882;Impressao;4
+1883;Gravacao Interna;1
+1884;Gravacao Externa;2
+1885;Leitura;3
+1886;Impressao;4
+1887;Gravacao Interna;1
+1888;Gravacao Externa;2
+1889;Leitura;3
+1890;Impressao;4
+1891;Gravacao Interna;1
+1892;Gravacao Externa;2
+1893;Leitura;3
+1894;Impressao;4
+1895;Gravacao Interna;1
+1896;Gravacao Externa;2
+1897;Leitura;3
+1898;Impressao;4
+1899;Gravacao Interna;1
+1900;Gravacao Externa;2
+1901;Leitura;3
+1902;Impressao;4
+1903;Gravacao Interna;1
+1904;Gravacao Externa;2
+1905;Leitura;3
+1906;Impressao;4
+1907;Gravacao Interna;1
+1908;Gravacao Externa;2
+1909;Leitura;3
+1910;Impressao;4
+1911;Gravacao Interna;1
+1912;Gravacao Externa;2
+1913;Leitura;3
+1914;Impressao;4
+1915;Gravacao Interna;1
+1916;Gravacao Externa;2
+1917;Leitura;3
+1918;Impressao;4
+1919;Gravacao Interna;1
+1920;Gravacao Externa;2
+1921;Leitura;3
+1922;Impressao;4
+1923;Gravacao Interna;1
+1924;Gravacao Externa;2
+1925;Leitura;3
+1926;Impressao;4
+1927;Gravacao Interna;1
+1928;Gravacao Externa;2
+1929;Leitura;3
+1930;Impressao;4
+1931;Gravacao Interna;1
+1932;Gravacao Externa;2
+1933;Leitura;3
+1934;Impressao;4
+1935;Gravacao Interna;1
+1936;Gravacao Externa;2
+1937;Leitura;3
+1938;Impressao;4
+1939;Gravacao Interna;1
+1940;Gravacao Externa;2
+1941;Leitura;3
+1942;Impressao;4
+1943;Gravacao Interna;1
+1944;Gravacao Externa;2
+1945;Leitura;3
+1946;Impressao;4
+1947;Gravacao Interna;1
+1948;Gravacao Externa;2
+1949;Leitura;3
+1950;Impressao;4
+1951;Gravacao Interna;1
+1952;Gravacao Externa;2
+1953;Leitura;3
+1954;Impressao;4
+1955;Gravacao Interna;1
+1956;Gravacao Externa;2
+1957;Leitura;3
+1958;Impressao;4
+1959;Gravacao Interna;1
+1960;Gravacao Externa;2
+1961;Leitura;3
+1962;Impressao;4
+1963;Gravacao Interna;1
+1964;Gravacao Externa;2
+1965;Leitura;3
+1966;Impressao;4
+1967;Gravacao Interna;1
+1968;Gravacao Externa;2
+1969;Leitura;3
+1970;Impressao;4
+1971;Gravacao Interna;1
+1972;Gravacao Externa;2
+1973;Leitura;3
+1974;Impressao;4
+1975;Gravacao Interna;1
+1976;Gravacao Externa;2
+1977;Leitura;3
+1978;Impressao;4
+1979;Gravacao Interna;1
+1980;Gravacao Externa;2
+1981;Leitura;3
+1982;Impressao;4
+1983;Gravacao Interna;1
+1984;Gravacao Externa;2
+1985;Leitura;3
+1986;Impressao;4
+1987;Gravacao Interna;1
+1988;Gravacao Externa;2
+1989;Leitura;3
+1990;Impressao;4
+1991;Gravacao Interna;1
+1992;Gravacao Externa;2
+1993;Leitura;3
+1994;Impressao;4
+1995;Gravacao Interna;1
+1996;Gravacao Externa;2
+1997;Leitura;3
+1998;Impressao;4
+1999;Gravacao Interna;1

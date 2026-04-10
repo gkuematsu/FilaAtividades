@@ -142,76 +142,75 @@ void CarregaArquivo(FILE *arq, TpFila &f, int tempoatual,int intervalo){
     }
 } 
 
-    void Simular(int qtdcpu, int tempoduracaoexecucao){
-        TpFila fila;
-        Inicializar(fila);
-        TpProcessador cpu[15]; 
-            InicializarProcessadores(cpu,qtdcpu);
-            int intervalo = 4;
-            int flag = 0;
-            int tempoGlobal = 0;
-            FILE *arq = fopen("tarefas.txt", "r");
-            if (arq == NULL) {
-                printf("Erro: Arquivo tarefas.txt nao encontrado!\n");
-            }
-            FormPrincipal(); 
-            int algumOcupado = 0;
-            gotoxy(35,27);
-            printf("Clique +/- para mudar o intervalo e ESC para sair!");
-            do {
-                //Controla o intervalo
-                if(kbhit()){
-                    char tecla = getch();
-                    if(tecla == '+')
-                        intervalo++;
-                    else if(tecla == '-' && intervalo > 1)
-                        intervalo--;
-                    if(tecla == 27)
-                        flag = 1;
-                }
-            //Carrega dados
-            if(tempoGlobal < tempoduracaoexecucao)
-                CarregaArquivo(arq, fila, tempoGlobal, intervalo);
+void Simular(int qtdcpu, int tempoduracaoexecucao){
+    TpFila fila;
+    Inicializar(fila);
+    TpProcessador cpu[15]; 
+    InicializarProcessadores(cpu,qtdcpu);
+    int intervalo = 4;
+    int flag = 0;
+    int tempoGlobal = 0;
+    FILE *arq = fopen("tarefas.txt", "r");
+    if (arq == NULL) 
+        printf("Erro: Arquivo tarefas.txt nao encontrado!\n");
+        
+    FormPrincipal(); 
+    int algumOcupado = 0;
+    gotoxy(35,27);
+    printf("Clique +/- para mudar o intervalo e ESC para sair!");
+    do {
+        //Controla o intervalo
+        if(kbhit()){
+            char tecla = getch();
+            if(tecla == '+')
+               intervalo++;
+            else if(tecla == '-' && intervalo > 1)
+                intervalo--;
+            if(tecla == 27)
+                flag = 1;
+        }
+        //Carrega dados
+        if(tempoGlobal < tempoduracaoexecucao)
+           CarregaArquivo(arq, fila, tempoGlobal, intervalo);
 
-            //Logica das cpus
-            algumOcupado = 0;
-            for(int i = 0; i < qtdcpu; i++) {
-                
-                //Esta fazendo
-                if (cpu[i].ocupado) {
-                    cpu[i].tempo_resta--;
-                    cpu[i].tempo_total++; 
+        //Logica das cpus
+        algumOcupado = 0;
+        for(int i = 0; i < qtdcpu; i++) { 
+        //Esta fazendo
+        if (cpu[i].ocupado) {
+        cpu[i].tempo_resta--;
+        cpu[i].tempo_total++; 
                     
-                    if (cpu[i].tempo_resta <= 0) {
-                        cpu[i].ocupado = 0; 
-                    }
-                }
-                //Esta Livre
-                if (!cpu[i].ocupado && !FilaVazia(fila.qtd)) {
-                    cpu[i].atual = Retirar(fila);
-                    cpu[i].tempo_resta = cpu[i].atual.tempo;
-                    cpu[i].ocupado = 1;
-                    cpu[i].qtd_processos++;
-                }
-
-                if(cpu[i].ocupado) algumOcupado = 1;
-            }
+            if (cpu[i].tempo_resta <= 0) 
+                cpu[i].ocupado = 0; 
             
-            gotoxy(12, 7);
-            textcolor(7);
-            printf("TEMPO: %d ut | TEMPO FINAL: %d ut Intervalo: %d" , tempoGlobal, tempoduracaoexecucao, intervalo);
-            MostrarProcessadores(cpu, qtdcpu, tempoGlobal);
-            ExibirFilaSlots(fila, 10, tempoGlobal);
+        }
+        //Esta Livre
+        if (!cpu[i].ocupado && !FilaVazia(fila.qtd)) {
+            cpu[i].atual = Retirar(fila);
+            cpu[i].tempo_resta = cpu[i].atual.tempo;
+            cpu[i].ocupado = 1;
+            cpu[i].qtd_processos++;
+        }
 
-            Sleep(500); 
-            tempoGlobal++;
+        if(cpu[i].ocupado) 
+            algumOcupado = 1;
+        }
             
-        } while (tempoGlobal < tempoduracaoexecucao && flag == 0);
-            gotoxy(50,107);
-            printf("Clique +/- para mudar o intervalo!");
+        gotoxy(12, 7);
+        textcolor(7);
+        printf("TEMPO: %d ut | TEMPO FINAL: %d ut Intervalo: %d" , tempoGlobal, tempoduracaoexecucao, intervalo);
+        MostrarProcessadores(cpu, qtdcpu, tempoGlobal);
+        ExibirFilaSlots(fila, 10, tempoGlobal);
 
-        fclose(arq);
-    }
+        Sleep(500); 
+        tempoGlobal++;
+            
+    } while (tempoGlobal < tempoduracaoexecucao && flag == 0);
+    gotoxy(50,107); textcolor(7);
+    printf("Clique +/- para mudar o intervalo!");
+    fclose(arq);
+}
 
 
 
@@ -224,7 +223,7 @@ int main() {
     printf("Quantidade de CPUs (1-15): ");
     scanf("%d", &qtd);
     gotoxy(35, 14);
-    printf("Intervalo de entrada de tarefas (ut): ");
+    printf("Tempo execucao da simulacao ");
     scanf("%d", &tempo);
      if(qtd == 15)
         qtd = 15;
